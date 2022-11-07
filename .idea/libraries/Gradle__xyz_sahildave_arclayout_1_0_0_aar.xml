@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: xyz.sahildave:arclayout:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/200fe2e4985caa5957a70beb0cb2cac6/transformed/jetified-arclayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/200fe2e4985caa5957a70beb0cb2cac6/transformed/jetified-arclayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/200fe2e4985caa5957a70beb0cb2cac6/transformed/jetified-arclayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/343589ca3934cdbbd62447ddf6a5f5dd/transformed/jetified-arclayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/343589ca3934cdbbd62447ddf6a5f5dd/transformed/jetified-arclayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/343589ca3934cdbbd62447ddf6a5f5dd/transformed/jetified-arclayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d373e4e696c3c51df1997cd9222d444/transformed/jetified-arclayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d373e4e696c3c51df1997cd9222d444/transformed/jetified-arclayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4d373e4e696c3c51df1997cd9222d444/transformed/jetified-arclayout-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xyz.sahildave/arclayout/1.0.0/620c427178d2838c4d766ea89fbd5d27ddba62cc/arclayout-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xyz.sahildave/arclayout/1.0.0/d365c87bc2e2758ac438e8dfa55a56933d881244/arclayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
